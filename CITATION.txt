@@ -1,0 +1,14 @@
+ To cite BIODEV code in publications, please use:
+
+ R. Valbuena, J. Heiskanen & P. Packalen (2017) BIODEV project codes in R. Version 1.0.0. Zenodo.
+
+A BibTeX entry for LaTeX users is
+
+@Book{,
+   author = {R. Valbuena, J. Heiskanen & P. Packalen},
+   title = {BIODEV project codes in R},
+   version = {Version 1.0.0},
+   publisher = {Zenodo},
+   year = {2017},
+   url = {},
+ }
