@@ -1,7 +1,7 @@
 # BIODEV
-# Files for research work and lecturing material for capacity building in BIODEV project in Burkina Faso and Sierra Leone.
-# They are structured as a course.
-# Work is described in these publications:
+Files for research work and lecturing material for capacity building in BIODEV project in Burkina Faso and Sierra Leone.
+They are structured as a course.
+Work is described in these publications:
 
 # Valbuena R., Heiskanen J., Aynekulu E., Pitkanen S. & Packalen P. (2016) Sensitivity of Above-Ground Biomass Estimates to Height-Diameter Modelling in Mixed-Species West African Woodlands. PLoS ONE 11(7): e0158198. 
 # http://dx.doi.org/10.1371/journal.pone.0158198
@@ -12,4 +12,4 @@
 # Melin M., Heiskanen J., Packalen P. & Valbuena R. (2016) Inventory of Biomass and Forest Resources. In: Mononen K. & Pitkanen S. (Eds.) Sustainable Fuelwood Management in West Africa. University of Eastern Finland. Grano, Jyvaskyla, Finland. pp. 27-64. 
 
 
-# Feel free to use the codes for replication. Please cite.
+Feel free to use the codes for replication. Please cite.
