@@ -1,4 +1,4 @@
-Files for work in BIODEV project in Burkina Faso and Sierra Leone.
+Files for research work and lecturing material for capacity building in BIODEV project in Burkina Faso and Sierra Leone.
 They are structured as a course.
 Work is described in these publications:
 
