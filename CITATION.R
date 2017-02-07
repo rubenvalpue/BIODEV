@@ -10,4 +10,4 @@ bibentry(
 	url = ""
 )
 
-textVersion = " R. Valbuena, J. Heiskanen & P. Packalen (2017) Building Biocarbon and Rural Development in West Africa (BIODEV) project data & codes in R.. Version 1.0.0. Zenodo."
+textVersion = " R. Valbuena, J. Heiskanen & P. Packalen (2017) Building Biocarbon and Rural Development in West Africa (BIODEV) project data & codes in R. Version 1.0.0. Zenodo."
