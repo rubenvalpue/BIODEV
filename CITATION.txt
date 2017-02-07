@@ -1,6 +1,6 @@
  To cite BIODEV code in publications, please use:
 
- R. Valbuena, J. Heiskanen & P. Packalen (2017) Building Biocarbon and Rural Development in West Africa (BIODEV) project data & codes in R. Version 1.0.0. Zenodo.
+ R. Valbuena, J. Heiskanen & P. Packalen (2017) Building Biocarbon and Rural Development in West Africa (BIODEV) project data & codes in R. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.269685
 
 A BibTeX entry for LaTeX users is
 
@@ -9,6 +9,7 @@ A BibTeX entry for LaTeX users is
    title = {Building Biocarbon and Rural Development in West Africa (BIODEV) project data & codes in R.},
    version = {Version 1.0.0},
    publisher = {Zenodo},
+   doi = {https://doi.org/10.5281/zenodo.269685},
    year = {2017},
    url = {},
  }
