@@ -13,3 +13,5 @@ Melin M., Heiskanen J., Packalen P. & Valbuena R. (2016) Inventory of Biomass an
 
 
 Feel free to use the codes for replication. Please cite.
+
+![alt text](Image.png)
